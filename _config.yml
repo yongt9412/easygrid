@@ -13,13 +13,13 @@ description: "Your online platform for renewable energy trading."
 
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: /easygrid
+baseurl:
 
 sass:
   sass_dir: _sass
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://www.yongt9412.com"
+url: "https://www.easygrid.eu"
 
 # The shortname for your Disqus site to enable comments.
 disqus:
