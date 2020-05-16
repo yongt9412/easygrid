@@ -860,12 +860,12 @@ figure {
 }
 .list-items-container .list-item figcaption {
 	background: #45ad7e;
-	background: -moz-linear-gradient(45deg, rgba(250,31,85,0.8) 0%, rgba(253,115,90,0.8) 100%);
-	background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(250,31,85,0.8)), color-stop(100%, #45ad7e));
-	background: -webkit-linear-gradient(45deg, rgba(250,31,85,0.8) 0%, rgba(253,115,90,0.8) 100%);
-	background: -o-linear-gradient(45deg, rgba(250,31,85,0.8) 0%, rgba(253,115,90,0.8) 100%);
-	background: -ms-linear-gradient(45deg, rgba(250,31,85,0.8) 0%, rgba(253,115,90,0.8) 100%);
-	background: linear-gradient(45deg, rgba(250,31,85,0.8) 0%, rgba(253,115,90,0.8) 100%);
+	background: -moz-linear-gradient(45deg, #45ad7e 0%, #083c78 100%);
+	background: -webkit-gradient(left bottom, right top, color-stop(0%, #45ad7e), color-stop(100%, #45ad7e));
+	background: -webkit-linear-gradient(45deg, #45ad7e 0%, #083c78 100%);
+	background: -o-linear-gradient(45deg, #45ad7e 0%, #083c78 100%);
+	background: -ms-linear-gradient(45deg, #45ad7e 0%, #083c78 100%);
+	background: linear-gradient(45deg, #45ad7e 0%, #083c78 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45ad7e', endColorstr='#083c78', GradientType=1 );
 	bottom: 8px;
 	left: 8px;
