@@ -28,8 +28,7 @@ disqus:
 author_name: "EasyGrid"
 
 # Social links in the site footer
-twitter_username: "username"
-facebook_username: "username"
-googleplus_username: "+username"
-pinterest_username: "username"
-linkedin_username: "username"
+twitter_username: ""
+facebook_username: ""
+pinterest_username: ""
+linkedin_username: ""
